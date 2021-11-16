@@ -8,3 +8,4 @@ Kotlin Discord Music Bot
 * Youtube
 
 ## Preview
+![](https://raw.githubusercontent.com/seohayeon/MusicBird/main/resources/preview.jpg)
